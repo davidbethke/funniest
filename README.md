@@ -1,0 +1,2 @@
+# funniest
+example python package
